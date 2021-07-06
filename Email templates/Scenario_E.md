@@ -13,6 +13,7 @@ We have received your concern regarding your incomplete application for the Andr
 **Important dates for this course:**
 
 Pre-work deadline: **August 20th**
+
 Course begins: **First week of your Fall Semester**
 
 
