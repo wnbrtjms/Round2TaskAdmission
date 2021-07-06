@@ -11,8 +11,9 @@ In the meantime, you can browse these resources to give you an overview of the p
 * [Policies and Expectations](https://courses.codepath.com/snippets/cybersecurity_university/course_overview#heading-course-policies)
 * [Tech Fellow Overview and Guides](https://github.com/wnbrtjms/Round2TaskAdmission/blob/main/TechFellowGuides)
 
-We can't wait for you to enjoy what's in store for your program, Dennis! Feel free to message us if you have questions and other concerns.
+We can't wait for you to enjoy what's in store in your chosen class, Dennis! Feel free to message us if you have questions and other concerns.
 
 
 All the best,
+
 Office of the Admission
