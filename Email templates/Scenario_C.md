@@ -20,4 +20,4 @@ I wish for your professional success, Anne. You can do it!
 
 All the best,
 
-Office of the Admission
+**Office of Admissions**
