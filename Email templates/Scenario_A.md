@@ -14,7 +14,7 @@ Again, congratulations and welcome to **CodePath**! If you have any more questio
 
 All the best,
 
-Office of Admissions
+**Office of Admissions**
 
 
 
