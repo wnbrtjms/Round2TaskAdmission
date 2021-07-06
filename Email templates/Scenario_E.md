@@ -2,7 +2,7 @@
 
 Good day, **Jake**!
 
-We have received your concern regarding your incomplete application for the Android University Course. Allow us to assist you on the remaining steps of this process.
+We have received your concern regarding your incomplete application for the Android University Course. Allow us to assist you with the remaining steps of this process.
 
 **Application steps:**
 
@@ -14,7 +14,7 @@ We have received your concern regarding your incomplete application for the Andr
 
 * Pre-work deadline: **August 20th**
 
-* Course begins: **First week of your Fall Semester**
+* Course begins: **The first week of your Fall Semester**
 
 
 For questions and other concerns regarding the application process, don't hesitate to message us at admissions@codepath.org. We are always here to guide you in every step. We are rooting for the success of your application, Jake. You can do it!
