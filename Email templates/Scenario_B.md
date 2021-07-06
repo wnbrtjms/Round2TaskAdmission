@@ -23,4 +23,4 @@ If you have any more questions and concerns, feel free to message us.
 
 All the best,
 
-Office of Admissions
+**Office of Admissions**
