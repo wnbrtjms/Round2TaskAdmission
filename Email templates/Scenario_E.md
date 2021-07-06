@@ -21,7 +21,7 @@ For questions and other concerns regarding the application process, don't hesita
 
 All the best,
 
-Office of the Admission
+**Office of Admissions**
 
 
 
