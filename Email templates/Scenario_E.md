@@ -12,9 +12,9 @@ We have received your concern regarding your incomplete application for the Andr
 
 **Important dates for this course:**
 
-Pre-work deadline: **August 20th**
+* Pre-work deadline: **August 20th**
 
-Course begins: **First week of your Fall Semester**
+* Course begins: **First week of your Fall Semester**
 
 
 For questions and other concerns regarding the application process, don't hesitate to message us at admissions@codepath.org. We are always here to guide you in every step.
