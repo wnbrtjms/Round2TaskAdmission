@@ -16,4 +16,4 @@ We can't wait for you to enjoy what's in store in your chosen class, Dennis! Fee
 
 All the best,
 
-Office of the Admission
+**Office of the Admission**
