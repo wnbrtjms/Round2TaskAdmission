@@ -1,9 +1,9 @@
 # Scenario A
 Hi **John**,
 
-Thank you for your application to our *Interview Prep program*. Great job for qualifying to our **Beginner track**! You are one step closer to your professional goals.
+We are grateful for your application to our **Interview Prep program**. Great job for qualifying to our **Beginner track**! You are one step closer to your professional goals.
 
-We have read your request to be transferred into our Advanced track given that you are a performing student at MIT. Thank you for reaching out regarding this matter. Upon checking your records, unfortunately, your score in the assessment didn't meet our requirements.
+We have read your *request* to be transferred into our Advanced track given that you are a performing student at MIT. Thank you for reaching out regarding this matter. Upon checking your records, unfortunately, your score in the assessment didn't meet our requirements.
 
 The courses are built from the same curriculum we use to train professional engineers from top Silicon Valley companies including Facebook, Airbnb, Lyft, Uber, Yahoo and many more. We always make sure that you are put into a class that is fit for your present skills.
 
