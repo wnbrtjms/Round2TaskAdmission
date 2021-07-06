@@ -17,9 +17,7 @@ We have received your concern regarding your incomplete application for the Andr
 * Course begins: **First week of your Fall Semester**
 
 
-For questions and other concerns regarding the application process, don't hesitate to message us at admissions@codepath.org. We are always here to guide you in every step.
-
-I am rooting for the success of your application, Jake. You can do it!
+For questions and other concerns regarding the application process, don't hesitate to message us at admissions@codepath.org. We are always here to guide you in every step. We are rooting for the success of your application, Jake. You can do it!
 
 All the best,
 
