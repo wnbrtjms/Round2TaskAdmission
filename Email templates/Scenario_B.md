@@ -2,7 +2,7 @@
 
 Good day **Jane**!
 
-We have received your concerns regarding the application process for the Android class. I know how disappointing it is that despite your efforts in completing the steps and completing the pre-work app, you are marked as ineligible because you are not currently enrolled in a university or college located in the US. We want to apologize if there was confusion regarding our eligibility requirements.
+We have received your concerns regarding the application process for the Android class. I know how disappointing it is that despite your efforts in completing the steps and completing the pre-work app, you are marked as ineligible because you are not currently enrolled in a university or college located in the US. We deeply apologize if there was confusion regarding our eligibility requirements.
 
 
 Our courses are specifically targeted at students enrolled in our partner universities within the United States. We currently run classes outside the US (e.g., Haiti); however, at this moment, Thailand is not one of them. We are planning to expand to many more areas as well. If you sign up for our  [mailing list](https://share.hsforms.com/1eg_EOoQpR4ObU4s8fUES2Q36gst), we’ll notify you once our classes become available in your area. 
