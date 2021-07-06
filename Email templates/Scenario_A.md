@@ -10,8 +10,7 @@ The courses are built from the same curriculum we use to train professional engi
 We appreciate your passion and interest in transferring to the Advanced track; however, we cannot process this request. Don’t worry! You will enjoy your assigned class. In the meantime, in preparation for your upcoming class, please check the [Technical Interview Prep Course Overview ](https://courses.codepath.org/snippets/intro_software_eng/overview). 
 
 
-Again, congratulations and welcome to **CodePath**! If you have any more questions and concerns, feel free to message us at admissions@codepath.org
-
+Again, congratulations and welcome to **CodePath**! If you have any more questions and concerns, feel free to message us.
 
 All the best,
 
